@@ -84,7 +84,7 @@ This framework is a skeleton. To make it trade your specific strategy:
 
 ### About the Architect
 
-**Architected by [Your Name]**  
+**Architected by Ifat Noreen**  
 🔗 [Connect on LinkedIn](https://www.linkedin.com/in/ifat-noreen)
 
 Built for the open-source community by **[Shift AI Consulting](https://shiftaiconsulting.co.uk)** — specialising in secure, deterministic, and enterprise-grade Agentic AI architectures.
