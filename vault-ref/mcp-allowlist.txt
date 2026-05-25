@@ -1,0 +1,4 @@
+# MCP and external API allowlist
+# Confirm the broker MCP URL matches an entry here before each session.
+# Do not add entries without verifying the endpoint is legitimate.
+

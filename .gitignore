@@ -1,0 +1,23 @@
+# Machine-specific graphify state
+graphify-out/.graphify_python
+graphify-out/.graphify_root
+
+# Graphify temp/intermediate files (cleaned up after each run, but just in case)
+graphify-out/.graphify_*.json
+graphify-out/.graphify_chunk_*.json
+graphify-out/.needs_update
+graphify-out/hook.log
+
+# Secrets — never commit
+*.key
+*.pem
+*.p12
+.env
+.env.*
+vault-ref/secrets/
+
+# macOS
+.DS_Store
+vault-ref/checksums.txt
+vault-ref/checksums.txt
+.env
