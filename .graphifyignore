@@ -1,0 +1,34 @@
+# .graphifyignore
+# Tells Graphify to ignore dynamic outputs and secrets so the graph stays clean.
+
+# Ignore hidden system and AI folders
+.git/
+.claude/
+.DS_Store
+
+# Ignore secrets and checksums (not part of the logic graph)
+.env
+.env.*
+*.key
+vault-ref/secrets/
+vault-ref/checksums.txt
+
+# Ignore Graphify's own outputs to prevent recursive parsing
+graphify-out/
+
+# Ignore dynamic JSON data and staging outputs to prevent graph bloat
+01_scan/output/
+02_sentiment/output/
+03_risk/output/
+04_decision/output/
+05_review/pending-orders/
+06_execute/paper-trades/
+06_execute/completed-trades/
+06_execute/open-positions/
+06_execute/pending/
+07_update/staging/
+07_update/output/
+
+# Ignore Python caches
+__pycache__/
+*.pyc
