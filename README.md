@@ -82,9 +82,15 @@ This framework is a skeleton. To make it trade your specific strategy:
 
 ---
 
-### About the Architect
+## 📜 License
 
-**Architected by Ifat Noreen**  
-🔗 [Connect on LinkedIn](https://www.linkedin.com/in/ifat-noreen)
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-Built for the open-source community by **[ShiftAi Systems](https://shiftaiconsulting.co.uk)**, specialising in secure, deterministic, and enterprise-grade Agentic AI architectures.
+## 📬 Contact & Consulting
+
+**Ifat Noreen**  
+*Principal Agentic AI Architect | Founder, Shift AI Systems Ltd*
+
+* **LinkedIn:** [linkedin.com/in/ifat-noreen](https://www.linkedin.com/in/ifat-noreen)
+* **GitHub:** [@TechIfat](https://github.com/TechIfat)
+* **Web:** [shiftaiconsulting.co.uk](https://shiftaiconsulting.co.uk)
